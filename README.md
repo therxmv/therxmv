@@ -1,5 +1,5 @@
 # Hi, I'm Roma 👋
-I'm beginner Java-developer. For cooperation write me <a href='mailto:roma.kyzmuch@gmail.com'>e-mail</a>.
+I'm beginner Java-developer.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=therxmv&show_icons=true&count_private=true">
