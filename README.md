@@ -1,4 +1,4 @@
-# Hi, I'm Roma 👋
+# Hi, I'm Roman 👋
 I'm beginner Java-developer.
 
 <p align='center'>
